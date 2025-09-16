@@ -14,3 +14,6 @@ console.log(upi);
 
 
 console.log("Latest Update");
+
+// I fixing the bugs
+console.log("bugs fexed");
